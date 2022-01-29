@@ -1,0 +1,20 @@
+body{
+color: gold;
+background-color: darkturquoise;
+}
+
+.heading{
+width: 80%;
+font-size: 22px;
+}
+
+#camera, #result{
+border: 2px dashed black;
+width: 350px;
+height: 350px;
+}
+
+.name_of_object, #result_object_name, #result_onject_accuracy{
+font-size: 20px;
+color: crimson;
+}
